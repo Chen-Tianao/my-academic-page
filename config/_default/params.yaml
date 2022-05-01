@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Chen Tianao.'
+    notice: '© {year} Chen Tianao. This work is for private academic uses.'
     license:
       enable: false
       allow_derivatives: false
