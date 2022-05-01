@@ -44,7 +44,7 @@ content:
  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: reseachgate
-      icon_pack: fab
+      icon_pack: brands
       name: Communicating through Reseachgate
       link: 'https://www.researchgate.net/profile/Tianao-Chen-2'
     - icon: video
