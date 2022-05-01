@@ -47,10 +47,10 @@ content:
       icon_pack: fab
       name: Communicating through Researchgate
       link: 'https://www.researchgate.net/profile/Tianao-Chen-2'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - icon: github
+      icon_pack: fab
+      name: Chatting through Github
+      link: 'https://github.com/Otho-Aurelius'
 
 design:
   columns: '2'
