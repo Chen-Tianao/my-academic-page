@@ -43,9 +43,9 @@ content:
     - 'Saturday 14:00 to 17:00'
  # appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: reseachgate
-      icon_pack: brands
-      name: Communicating through Reseachgate
+    - icon: researchgate
+      icon_pack: fab
+      name: Communicating through Researchgate
       link: 'https://www.researchgate.net/profile/Tianao-Chen-2'
     - icon: video
       icon_pack: fas
