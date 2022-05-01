@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'University of Science and Technology of China'
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -103,3 +103,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+icon.pack:
+  ai: true
