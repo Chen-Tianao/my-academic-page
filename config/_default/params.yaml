@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: 2
+    align: 1
     show_logo: true
     show_language: false
     show_day_night: true
@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Monday, 02 Jan 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
