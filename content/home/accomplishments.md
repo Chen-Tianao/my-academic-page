@@ -1,5 +1,4 @@
 ---
-active: false
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -27,10 +26,10 @@ item:
   - certificate_url: http://edf.dlut.edu.cn/info/1078/4412.htm 
     date_end: ''
     date_start: '2021-11-02'
-    description: 'The scholarship is only granted to students whose families are in financial difficulties, but who keep academic excellence and won other individual scholarships.'
+    description: ''
     organization: Dalian University of Technology
     organization_url: https://www.dlut.edu.cn/
-    title: 'Hong Kong Alumni Association Self-improvement Student Scholarship'
+    title: 'Hong Kong Alumni Association Self Improvement Student Scholarship'
     url: ''
   - certificate_url: https://www.comap.com/Certform
     date_end: ''
@@ -59,7 +58,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2019-10-01'
-    description: 'The scholarship is only granted to students whose families are in financial difficulties, but who keep academic excellence and won other individual scholarships.'
+    description: ''
     organization: Dalian University of Technology
     organization_url: https://www.dlut.edu.cn/
     title: 'National Encouragement Scholarship'
@@ -67,10 +66,10 @@ item:
   - certificate_url: http://hyxy.dlut.edu.cn/info/1013/2149.htm
     date_end: ''
     date_start: '2019-07-15'
-    description: '2019 Mechanics Competition at Panjin Campus of Dalian University of Technology.'
-    organization: School of Ocean Science and Technology, Dalian University of Technology
+    description: '2019 Mechanics Competition at Panjin Campus of DUT.'
+    organization: School of Ocean Science and Technology
     organization_url: http://hyxy.dlut.edu.cn/index.htm
-    title: 'Third prize in Mechanics Competition in DUT Panjin Campus'
+    title: 'Third prize in Mechanics Competition'
     url: ''
   - certificate_url: http://www.mathorcup.org/certificate/result/mc2019agjuy01616
     date_end: ''
@@ -83,7 +82,7 @@ item:
     - certificate_url: 
     date_end: ''
     date_start: '2018-11-01'
-    description: 'The scholarship is only granted to students whose families are in financial difficulties, but who keep academic excellence and won other individual scholarships.'
+    description: ''
     organization: Dalian University of Technology
     organization_url: https://www.dlut.edu.cn/
     title: 'National Encouragement Scholarship'
