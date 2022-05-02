@@ -22,8 +22,8 @@ feature:
     icon_pack: fab
     name: Mathematical Modeling
   - description: Microfluidic Technology & Cell Culture
-    icon: flask-vial
-    icon_pack: fab
+    icon: flask-round-potion
+    icon_pack: fas
     name: Experimental Operation
   - description: MATLAB & C/C51
     icon: computer-classic

@@ -28,7 +28,7 @@ experience:
     company_logo: USTCblue
     location: Hefei, Anhui Province, China
     date_start: '2021-09-06'
-    date_end: '2024-07-01'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
