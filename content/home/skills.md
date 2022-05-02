@@ -18,16 +18,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Continuum Mechanics
-    icon: function
-    icon_pack: fab
+    icon: infinity-solid
+  #  icon_pack: fab
     name: Mathematical Modeling
   - description: Microfluidic Technology & Cell Culture
-    icon: flask-round-potion
-    icon_pack: fas
+    icon: flask-vial-solid
+  #  icon_pack: fas
     name: Experimental Operation
   - description: MATLAB & C/C51
-    icon: computer-classic
-    icon_pack: fab
+    icon: code-solid
+  # icon_pack: fab
     name: Program Design
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
