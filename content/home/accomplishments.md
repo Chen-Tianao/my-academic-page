@@ -39,7 +39,7 @@ item:
   description: |2
     * Team Control Number: 2118176. 
     * Participated as a modeler.
-  organization: COMAP
+  organization: Consortium for Mathematics and Its Applications
   organization_url: https://www.comap.com/
   title: 'Honorable Mention in MCM'
   url: ''
@@ -47,7 +47,7 @@ item:
   date_end: ''
   date_start: '2020-06-26'
   description: 'Participated as a modeler.'
-  organization: Mathorcup College Mathematical Modeling Challenge
+  organization: Mathorcup':' College Mathematical Modeling Challenge
   organization_url: http://www.mathorcup.org/index
   title: 'First Prize in Mathorcup Challenge'
   url: ''
