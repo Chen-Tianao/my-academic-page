@@ -14,13 +14,13 @@ organizations:
     url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master's Student of Engineering Science at USTC
+bio: Master's Student at Department of Precision Machinery and Precision Instrumentation, focusing on microrobotics and droplet microfluidic technology.
 
 # Interests to show in About widget
 interests:
   - Microfluidics
   - Microrobots
-  - Flexible Electronics
+  - Flexible Sensing
 
 # Education to show in About widget
 education:
@@ -43,7 +43,7 @@ social:
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/GeorgeCushen
-  - icon: Researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fab
     link: https://www.researchgate.net/profile/Tianao-Chen-2
   - icon: github
@@ -52,6 +52,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0002-4041-0210
+  - icon: people-group
+    icon_pack: fab
+    link: http://www.mbit.ustc.edu.cn/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,8 +70,8 @@ email: 'cta697140@mail.ustc.edu.cn'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chen Tian'ao is a Master's Student of Instrument Science and Technology at the USTC MBIT Lab. His research interests include microscopic robotics, droplet microfluidic technology and Flexible Sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into micro-robots or integration into flexible electronic systems for biomedical applications.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In addition to scientific research, he also focuses on the industrialization process of microfluidic soft manufacturing technology, including the preparation of functional microcapsules by jet technology, such as fire extinguishing microcapsules, drug-loaded embolization microspheres, etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

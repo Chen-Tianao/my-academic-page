@@ -45,11 +45,11 @@ content:
   contact_links:
     - icon: researchgate
       icon_pack: fab
-      name: Communicating through Researchgate
+      name: Researchgate
       link: 'https://www.researchgate.net/profile/Tianao-Chen-2'
     - icon: github
       icon_pack: fab
-      name: Chatting through Github
+      name: Github
       link: 'https://github.com/Otho-Aurelius'
 
 design:
