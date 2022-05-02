@@ -36,18 +36,21 @@ item:
 - certificate_url: https://www.comap.com/Certform
   date_end: ''
   date_start: '2021-03-01'
-  description: 'Team Control Number: 2118176. Participated as a modeler.'
+  description: |2
+    * Team Control Number: 2118176. 
+    * Participated as a modeler.
   organization: COMAP
   organization_url: https://www.comap.com/
   title: 'Honorable Mention in MCM'
   url: ''
-- certificate_url: https://www.datacamp.com
-  date_end: '2020-12-21'
-  date_start: '2020-07-01'
-  description: ''
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url: http://www.mathorcup.org/certificate/result/mc2020202859
+  date_end: ''
+  date_start: '2020-06-26'
+  description: 'Participated as a modeler.'
+  organization: Mathorcup College Mathematical Modeling Challenge
+  organization_url: http://www.mathorcup.org/index
+  title: 'First Prize in Mathorcup Challenge'
+  url: ''
 
 design:
   columns: '2'
