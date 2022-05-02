@@ -47,7 +47,7 @@ item:
   date_end: ''
   date_start: '2020-06-26'
   description: 'Participated as a modeler.'
-  organization: Mathorcup':' College Mathematical Modeling Challenge
+  organization: Mathorcup: College Mathematical Modeling Challenge
   organization_url: http://www.mathorcup.org/index
   title: 'First Prize in Mathorcup Challenge'
   url: ''
