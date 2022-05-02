@@ -26,10 +26,10 @@ item:
 - certificate_url: http://edf.dlut.edu.cn/info/1078/4412.htm 
   date_end: ''
   date_start: '2021-11-02'
-  description: ''
+  description: 'This scholarship is only awarded to students whose families are suffering financially, but who have maintained excellent academic performance and won other individual scholarships'
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
-  title: 'Hong Kong Alumni Association Self Improvement Student Scholarship'
+  title: 'Hong Kong Alumni Association Self-Improvement Student Scholarship'
   url: 'http://edf.dlut.edu.cn/index.htm'
 - certificate_url: https://www.edx.org
   date_end: ''
