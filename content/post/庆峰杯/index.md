@@ -39,5 +39,5 @@ categories:
 ---
 
 ## Overview
-  Chen Tianao and his teammates Ding Dang, Yin Yanbin, Zhu Yuewei and Li Xingxiang won the award of Honorable mention in the Qingfeng Cup for the preparation of Fire Extinguishment Microcapsules.
+  Chen Tian'ao and his teammates Ding Dang, Yin Yanbin, Zhu Yuewei and Li Xingxiang won the award of Honorable mention in the Qingfeng Cup for the preparation of Fire Extinguishment Microcapsules.
 
