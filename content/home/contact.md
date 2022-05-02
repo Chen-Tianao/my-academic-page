@@ -13,7 +13,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
   form:
@@ -28,15 +28,15 @@ content:
   email: cta697140@mail.ustc.edu.cn
   phone: +86 17718471030
   address:
-    street: 443 Huangshan Road, Shushan District
+    street: West Campus of USTC, 443 Huangshan Road, Shushan District
     city: Hefei
     region: Anhui Province
     postcode: '230027'
     country: China
     country_code: CN
   coordinates:
-    latitude: '32.040572'
-    longitude: '117.008651'
+    latitude: '31.840572'
+    longitude: '117.258651'
   directions: Enter the East Building of Laboratory Edifice and take the elevator to Office 417 on the floor 4
   office_hours:
     - 'Friday 9:00 to 11:00'
