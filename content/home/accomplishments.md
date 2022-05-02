@@ -27,8 +27,8 @@ item:
   date_end: ''
   date_start: '2021-11-02'
   description: |2
-    Only for students from families with financial difficulties.
-    Keeping academic excellence & won other individual scholarships.
+    * Only for students from families with financial difficulties.
+    * Keeping academic excellence & won other individual scholarships.
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
   title: 'Hong Kong Alumni Association Self-Improvement Student Scholarship'
@@ -37,16 +37,16 @@ item:
   date_end: ''
   date_start: '2021-03-01'
   description: |2
-    Team Control Number: 2118176. 
-    Participated as a modeler.
+    * Team Control Number: 2118176. 
+    * Participated as a modeler.
   organization: Consortium for Mathematics and Its Applications
   organization_url: https://www.comap.com/
   title: 'Honorable Mention in MCM'
-  url: ''
+  url: 'https://www.comap.com/undergraduate/contests/index.html'
 - certificate_url: http://www.mathorcup.org/certificate/result/mc2020202859
   date_end: ''
   date_start: '2020-06-26'
-  description: 'Participated as a modeler.'
+  description: '* Participated as a modeler.'
   organization: Mathorcup: College Mathematical Modeling Challenge
   organization_url: http://www.mathorcup.org/index
   title: 'First Prize in Mathorcup Challenge'
@@ -55,12 +55,12 @@ item:
   date_end: ''
   date_start: '2020-03-01'
   description: |2
-    Team Control Number: 2003176.
-    Participated as a modeler.
+    * Team Control Number: 2003176.
+    * Participated as a modeler.
   organization: Consortium for Mathematics and Its Applications
   organization_url: https://www.comap.com/
   title: 'Honorable Mention in ICM'
-  url: ''
+  url: 'https://www.comap.com/undergraduate/contests/index.html'
 
 design:
   columns: '2'
