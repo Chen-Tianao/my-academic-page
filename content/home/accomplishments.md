@@ -30,7 +30,7 @@ item:
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
   title: 'Hong Kong Alumni Association Self Improvement Student Scholarship'
-  url: ''
+  url: 'http://edf.dlut.edu.cn/index.htm'
 - certificate_url: https://www.edx.org
   date_end: ''
   date_start: '2021-01-01'
