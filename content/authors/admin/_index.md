@@ -14,7 +14,7 @@ organizations:
     url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Master's Student of Engineering Science at USTC
 
 # Interests to show in About widget
 interests:
@@ -27,10 +27,10 @@ education:
   courses:
     - course: MPhil in Instrument Science and Technology
       institution: University of Science and Technology of China
-      year: 2021 ~ 2024 
+      year: 2021~2024 
     - course: BEng in Ocean Technology
       institution: Dalian University of Technology
-      year: 2017 ~ 2021
+      year: 2017~2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,18 +40,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/GeorgeCushen
+  - icon: Researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Tianao-Chen-2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/Otho-Aurelius
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/my-orcid?orcid=0000-0002-4041-0210
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

@@ -70,11 +70,11 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Otho-Aurelius/my-academic-page'
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: square
   comment:
     provider: ''
