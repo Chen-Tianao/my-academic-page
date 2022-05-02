@@ -70,7 +70,7 @@ email: 'cta697140@mail.ustc.edu.cn'
 highlight_name: true
 ---
 
-Chen Tian'ao is a Master's Student of Instrument Science and Technology at the USTC MBIT Lab. His research interests include microscopic robotics, droplet microfluidic technology and Flexible Sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into micro-robots or integration into flexible electronic systems for biomedical applications.  
+Chen Tian'ao is a Master's Student of Instrument Science and Technology at the University of Science and Technology of China. He works in the Droplet Microfluidics & Microencapsulation group of the lab for Multimodal Biomedical Imaging and Therapy (MBIT). His research interests include microscopic robotics, droplet microfluidic technology and Flexible Sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into microrobots for biomedical engineering or integration into flexible electronic systems.  
 
 In addition to scientific research, he also focuses on the industrialization process of microfluidic soft manufacturing technology, including the preparation of functional microcapsules by jet technology, such as fire extinguishing microcapsules, drug-loaded embolization microspheres, etc.
 

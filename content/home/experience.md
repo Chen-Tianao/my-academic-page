@@ -34,7 +34,7 @@ experience:
         
         * Cell lab management
         * Scientific research
-        * Assist industrialization of scientific research achievements
+        * Assisting industrialization of scientific research achievements
 
   - title: Undergraduate Student
     company: Dalian University of Technology
@@ -46,9 +46,10 @@ experience:
     description: |2-
         Main courses include:
         
-        * Continuum mechanics & Robotics
-        * Sensor principle & Electronics
-        * Scientific computing programming
+        * Continuum Mechanics & Robotics
+        * Sensor Principle & Signal Processing
+        * Embedded Development
+        * Scientific Computing Programming
 design:
   columns: '2'
 ---
