@@ -27,7 +27,7 @@ item:
   date_end: ''
   date_start: '2021-11-02'
   description: |2
-    '* Only for students from families with financial difficulties.
+    ' * Only for students from families with financial difficulties.
     * Keeping academic excellence & won other individual scholarships.'
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
