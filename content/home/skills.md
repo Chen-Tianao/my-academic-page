@@ -22,7 +22,7 @@ feature:
     icon: 'infinity-solid'
     icon_pack: custom
     name: Mathematical Modeling
-  - description: Microfluidic Technology & Cell Culture
+  - description: Microfluidic Devices & Cell Culture
     icon: 'flask-vial-solid'
     icon_pack: custom
     name: Experimental Operation
