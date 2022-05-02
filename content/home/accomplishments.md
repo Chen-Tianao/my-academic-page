@@ -61,6 +61,42 @@ item:
   organization_url: https://www.comap.com/
   title: 'Honorable Mention in ICM'
   url: 'https://www.comap.com/undergraduate/contests/index.html'
+- certificate_url: 
+  date_end: ''
+  date_start: '2019-10-01'
+  description: |2
+    * Only for students from families with financial difficulties.
+    * Keeping academic excellence & won other individual scholarships.
+  organization: Dalian University of Technology
+  organization_url: https://www.dlut.edu.cn/
+  title: 'National Encouragement Scholarship'
+  url: 'http://yx.dlut.edu.cn/lstd/jxj.htm'
+- certificate_url: http://hyxy.dlut.edu.cn/info/1013/2149.htm
+  date_end: ''
+  date_start: '2019-07-15'
+  description: '2019 Mechanics Competition at Panjin Campus of DUT.'
+  organization: School of Ocean Science and Technology
+  organization_url: http://hyxy.dlut.edu.cn/index.htm
+  title: 'Third prize in Mechanics Competition'
+  url: ''
+- certificate_url: http://www.mathorcup.org/certificate/result/mc2019agjuy01616
+  date_end: ''
+  date_start: '2019-06-05'
+  description: '* Participated as a modeler.'
+  organization: 'Mathorcup: College Mathematical Modeling Challenge'
+  organization_url: http://www.mathorcup.org/index
+  title: 'Third Prize in Mathorcup Challenge'
+  url: ''
+- certificate_url: 
+  date_end: ''
+  date_start: '2018-11-01'
+  description: |2
+    * Only for students from families with financial difficulties.
+    * Keeping academic excellence & won other individual scholarships.
+  organization: Dalian University of Technology
+  organization_url: https://www.dlut.edu.cn/
+  title: 'National Encouragement Scholarship'
+  url: 'http://yx.dlut.edu.cn/lstd/jxj.htm'
 
 design:
   columns: '2'
