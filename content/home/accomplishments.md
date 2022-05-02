@@ -26,19 +26,19 @@ item:
 - certificate_url: http://edf.dlut.edu.cn/info/1078/4412.htm 
   date_end: ''
   date_start: '2021-11-02'
-  description: 'This scholarship is only awarded to students whose families are suffering financially, but who have maintained excellent academic performance and won other individual scholarships'
+  description: 'This scholarship is only awarded to students whose families are suffering financially, but who have maintained excellent academic performance and won other individual scholarships.'
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
   title: 'Hong Kong Alumni Association Self-Improvement Student Scholarship'
   url: 'http://edf.dlut.edu.cn/index.htm'
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.comap.com/Certform
   date_end: ''
-  date_start: '2021-01-01'
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: '2021-03-01'
+  description: 'Team Control Number: 2118176. Participated as a modeler.'
+  organization: COMAP
+  organization_url: https://www.comap.com/
+  title: 'Honorable Mention in MCM'
+  url: ''
 - certificate_url: https://www.datacamp.com
   date_end: '2020-12-21'
   date_start: '2020-07-01'
