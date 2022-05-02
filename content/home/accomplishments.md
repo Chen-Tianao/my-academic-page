@@ -74,7 +74,7 @@ item:
 - certificate_url: http://hyxy.dlut.edu.cn/info/1013/2149.htm
   date_end: ''
   date_start: '2019-07-15'
-  description: '2019 Mechanics Competition at Panjin Campus of DUT.'
+  description: '2019 Mechanics Competition at Panjin Campus of Dalian University of Technology.'
   organization: School of Ocean Science and Technology
   organization_url: http://hyxy.dlut.edu.cn/index.htm
   title: 'Third prize in Mechanics Competition'
