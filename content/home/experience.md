@@ -48,7 +48,6 @@ experience:
         
         * Continuum Mechanics & Robotics
         * Sensor Principle & Signal Processing
-        * Embedded Development
         * Scientific Computing Programming
 design:
   columns: '2'
