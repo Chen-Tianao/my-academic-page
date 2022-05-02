@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-#  - certificate_url: http://edf.dlut.edu.cn/info/1078/4412.htm 
-#    date_end: ''
-#    date_start: '2021-11-02'
-#    description: 'The scholarship is only granted to students whose families are in financial difficulties, but who keep academic excellence and won other individual scholarships.'
-#    organization: Dalian University of Technology
-#    organization_url: https://www.dlut.edu.cn/
-#    title: 'Hong Kong Alumni Association Self-improvement Student Scholarship'
-#    url: ''
+  - certificate_url: http://edf.dlut.edu.cn/info/1078/4412.htm 
+    date_end: ''
+    date_start: '2021-11-02'
+    description: 'The scholarship is only granted to students whose families are in financial difficulties, but who keep academic excellence and won other individual scholarships.'
+    organization: Dalian University of Technology
+    organization_url: https://www.dlut.edu.cn/
+    title: 'Hong Kong Alumni Association Self-improvement Student Scholarship'
+    url: ''
   - certificate_url: https://www.comap.com/Certform
     date_end: ''
     date_start: '2021-03-01'
