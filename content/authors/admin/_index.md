@@ -27,10 +27,10 @@ education:
   courses:
     - course: MPhil in Instrument Science and Technology
       institution: University of Science and Technology of China
-      year: 2021~2024 
+      year: 2024 
     - course: BEng in Ocean Technology
       institution: Dalian University of Technology
-      year: 2017~2021
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

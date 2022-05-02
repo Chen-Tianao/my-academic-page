@@ -22,29 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Master's Student
+    company: University of Science and Technology of China
+    company_url: 'https://www.ustc.edu.cn/'
+    company_logo: USTCblue
+    location: Hefei, Anhui Province, China
+    date_start: '2021-09-06'
+    date_end: '2024-07-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Cell lab management
+        * Scientific research
+        * Assist industrialization of scientific research achievements
+
   - title: Undergraduate Student
     company: Dalian University of Technology
     company_url: 'https://www.dlut.edu.cn/'
     company_logo: DUT
     location: Dalian & Panjin, Liaoning Province, China
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2017-09-01'
+    date_end: '2021-06-22'
     description: |2-
-        Responsibilities include:
+        Main courses include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+        * Continuum mechanics & Robotics
+        * Sensor principle & Electronics
+        * Scientific computing programming
 design:
   columns: '2'
 ---
