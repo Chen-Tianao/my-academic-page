@@ -31,7 +31,7 @@ content:
       tag: Academic Research
     - name: Microrobots
       tag: Academic Research
-    - name: Functional Microcapsules
+    - name: Microcapsules
       tag: Industrial Research
 
 design:
