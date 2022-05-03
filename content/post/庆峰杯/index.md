@@ -59,9 +59,11 @@ categories:
   
   However, at low concentrations, perflourohexanone can instead enhance combustion. Therefore, according to the actual lithium-ion battery ignition conditions, it is necessary to select a suitable high boiling point, high heat of vaporization and high specific heat composite fire extinguishing agent (fire extinguishing agent + coolant) in order to ensure the fire extinguishing performance while taking into account the cooling capacity.
 
-  Considering that most of the existing halogenated hydrocarbon fire extinguishing agents are used with complex equipment accessories, high cost and high pressure required for injection, and most of the liquid halogenated hydrocarbon fire extinguishing agents also have low boiling point, not easy to store and other characteristics.Therefore, microencapsulation of halogenated hydrocarbon fire extinguishing agent is a good and feasible solution.
+  Considering that most of the existing halogenated hydrocarbon fire extinguishing agents are used with complex equipment accessories, high cost and high pressure required for injection, and most of the liquid halogenated hydrocarbon fire extinguishing agents also have low boiling point, not easy to store and other characteristics. Therefore, microencapsulation of halogenated hydrocarbon fire extinguishing agent is a good and feasible solution.
 
   Our team uses active excitation flow focusing technology to encapsulate perflourohexanone, which not only isolates it from the external environment to protect and store the extinguishing agent, but also allows the perflourohexanone as the core material to absorb heat and vaporize when the ambient temperature rises (about 80°C), rising through the outer wall of the microcapsules, thus releasing and inhibiting further chain reactions and eliminating the fire before it is too late.
+
+  In the pre-exploration, we have not only verified that the fire extinguishing microcapsules developed by our team can remain stable in the electrolyte (30 days), but have also conducted experiments on small batteries (aluminum-plastic film batteries, 3.2V-40Ah) and achieved good fire extinguishing results.
 
 # Notes
   The discussion in this article is derived from many domestic and foreign literature, please correct any inappropriate points.
