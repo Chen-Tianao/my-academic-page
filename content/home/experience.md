@@ -32,8 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Cell lab management
-        * Scientific research
+        * Cell laboratory management
+        * Scientific research for microrobots and droplet microfluidics
         * Assisting industrialization of scientific research achievements
 
   - title: Undergraduate Student

@@ -28,7 +28,7 @@ item:
   date_start: '2021-11-02'
   description: |2-
     * Only for students from families with financial difficulties.
-    * Keeping academic excellence & won other individual scholarships.
+    * Keeping academic excellence and won other individual scholarships.
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
   title: 'Hong Kong Alumni Association Self-Improvement Student Scholarship'
@@ -66,7 +66,7 @@ item:
   date_start: '2019-10-01'
   description: |2-
     * Only for students from families with financial difficulties.
-    * Keeping academic excellence & won other individual scholarships.
+    * Keeping academic excellence and won other individual scholarships.
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
   title: 'National Encouragement Scholarship'
@@ -92,7 +92,7 @@ item:
   date_start: '2018-11-01'
   description: |2-
     * Only for students from families with financial difficulties.
-    * Keeping academic excellence & won other individual scholarships.
+    * Keeping academic excellence and won other individual scholarships.
   organization: Dalian University of Technology
   organization_url: https://www.dlut.edu.cn/
   title: 'National Encouragement Scholarship'
