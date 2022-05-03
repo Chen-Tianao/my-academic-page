@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Microfluidics
+      tag: Academic Research
+    - name: Microrobots
+      tag: Academic Research
+    - name: Functional Microcapsules
+      tag: Industrial Research
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
