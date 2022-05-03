@@ -29,7 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-Welcome to follow this project!🤝 For more information, please click
+Welcome to follow this project!🤝 For more information, please click here[https://chen-tian-ao.netlify.app/post/qingfeng-cup-2022/].
 
 Our team is willing to discuss and cooperate with relevant experts, engineers and technicians in depth on the development and industrial application of fire extinguishing microcapsules. 
 
