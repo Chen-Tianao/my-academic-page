@@ -39,7 +39,7 @@ categories:
 ---
 
 # Overview
-  Chen Tianao and his teammates Ding Dang, Yin Yanbin, Zhu Yuewei and Li Xingxiang won the Honorable Mention prize in Qingfeng cup for the development of fire-extinguishing microcapsule manufacturing system.
+  Under the guidance of Zhu Zhiqiang (Special associate researcher) and Huang Fangsheng (Special associate researcher), Chen Tianao and his teammates Ding Dang, Yin Yanbin, Zhu Yuewei and Li Xingxiang won the Honorable Mention prize in Qingfeng cup for the development of fire-extinguishing microcapsule manufacturing system.
 
 # Introduction
   As an energy carrier that can realize the mutual conversion of chemical and electrical energy, lithium-ion batteries are widely used in portable electronic devices, smart grid energy storage, new energy vehicle power systems, etc. due to their high operating voltage, good cycling performance, no memory effect, high specific energy, good stability and long service life.
