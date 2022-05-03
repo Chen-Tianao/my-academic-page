@@ -2,7 +2,9 @@
 custom.SVG.icons: true
 
 # Display name
-title: Chen Tian'ao
+title: |2-
+  陈天傲
+  Chen Tianao
 
 # Is this the primary user of the site?
 superuser: true
@@ -54,8 +56,8 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0002-4041-0210
-  - icon: 'user-group-solid'
-    icon_pack: custom
+  - icon: user-group
+    icon_pack: fab
     link: http://www.mbit.ustc.edu.cn/
 
 # Link to a PDF of your resume/CV.

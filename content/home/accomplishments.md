@@ -26,7 +26,7 @@ item:
 - certificate_url: http://edf.dlut.edu.cn/info/1078/4412.htm 
   date_end: ''
   date_start: '2021-11-02'
-  description: |2
+  description: |2-
     * Only for students from families with financial difficulties.
     * Keeping academic excellence & won other individual scholarships.
   organization: Dalian University of Technology
@@ -36,7 +36,7 @@ item:
 - certificate_url: https://www.comap.com/Certform
   date_end: ''
   date_start: '2021-03-01'
-  description: |2
+  description: |2-
     * Team Control Number: 2118176. 
     * Participated as a modeler.
   organization: Consortium for Mathematics and Its Applications
@@ -54,7 +54,7 @@ item:
 - certificate_url: https://www.comap.com/Certform
   date_end: ''
   date_start: '2020-03-01'
-  description: |2
+  description: |2-
     * Team Control Number: 2003176.
     * Participated as a modeler.
   organization: Consortium for Mathematics and Its Applications
@@ -64,7 +64,7 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: '2019-10-01'
-  description: |2
+  description: |2-
     * Only for students from families with financial difficulties.
     * Keeping academic excellence & won other individual scholarships.
   organization: Dalian University of Technology
@@ -90,7 +90,7 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: '2018-11-01'
-  description: |2
+  description: |2-
     * Only for students from families with financial difficulties.
     * Keeping academic excellence & won other individual scholarships.
   organization: Dalian University of Technology
