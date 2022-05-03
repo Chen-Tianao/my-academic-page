@@ -1,6 +1,6 @@
 ---
 title: Fire-Extinguishing Microcapsules
-summary: Research and development of fire extinguishing microcapsules.
+summary: Research and development of fire-extinguishing microcapsules.
 tags:
   - Industrial Research
 date: '2022-05-01T00:00:00Z'
@@ -29,7 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-Welcome to follow this project!🤝
+Welcome to follow this project!🤝 
 
 Our team is willing to discuss and cooperate with relevant experts, engineers and technicians in depth on the development and industrial application of fire extinguishing microcapsules. 
 

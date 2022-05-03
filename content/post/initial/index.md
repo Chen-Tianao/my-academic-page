@@ -3,7 +3,7 @@ title: Starting My Academic Homepage
 subtitle: Welcome everyone to visit my Academic Profile! 👋
 
 # Summary for listings and search engines
-summary: Initializing my Academic Homepage. Summarizing personal experience and recording the growth track.
+summary: Summarizing personal experience and recording the growth track.
 
 # Link this post with a project
 projects: []
@@ -39,5 +39,5 @@ categories:
 ---
 
 # Overview
-  Chen Tianao has published his personal academic homepage, welcome everyone to visit, and interact with him on daily life, science and technology topics.
+  Chen Tianao has published his personal academic homepage, welcome everyone to visit, and interact with him on daily life, science and technology topics.😀
 

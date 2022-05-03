@@ -53,7 +53,7 @@ social:
     link: https://github.com/Otho-Aurelius
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/my-orcid?orcid=0000-0002-4041-0210
+    link: https://orcid.org/0000-0002-4041-0210
   - icon: user-group
     icon_pack: fas
     link: http://www.mbit.ustc.edu.cn/
@@ -72,8 +72,8 @@ email: 'cta697140@mail.ustc.edu.cn'
 highlight_name: true
 ---
 
-Chen Tianao (陈天傲) is a Master's Student of Instrument Science and Technology at the University of Science and Technology of China. He works in the Droplet Microfluidics and Microencapsulation group of the lab for Multimodal Biomedical Imaging and Therapy (MBIT). His research interests include microscopic robotics, droplet microfluidic technology and Flexible Sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into microrobots for biomedical engineering or integration into flexible electronic systems.  
+Chen Tianao (陈天傲) is a Master's Student of Instrument Science and Technology at the University of Science and Technology of China. He works in the Droplet Microfluidics and Microencapsulation group of the lab for Multimodal Biomedical Imaging and Therapy (MBIT). His research interests include microscopic robotics, droplet microfluidic technology and flexible sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into microrobots for biomedical engineering or integration into flexible electronic systems.  
 
-In addition to scientific research, he also focuses on the industrialization process of microfluidic soft manufacturing technology, including the preparation of functional microcapsules by jet technology, such as fire-extinguishing microcapsules, drug-loaded embolization microspheres, etc.
+In addition to scientific research, he also focuses on the industrialization process of microfluidic soft manufacturing technology, including the development of functional microcapsules by jet technology, such as fire-extinguishing microcapsules, drug-loaded embolization microspheres, etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

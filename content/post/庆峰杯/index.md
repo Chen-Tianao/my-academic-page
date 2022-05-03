@@ -3,7 +3,7 @@ title: Honorable Mention Prize in the Qingfeng Cup
 subtitle: Achieved good results in the Innovation and Entrepreneurship Competition of University of Science and Technology of China
 
 # Summary for listings and search engines
-summary: Fire Extinguishment Microcapsules won the Honorable mention prize in the Qingfeng Cup, the Innovation and Entrepreneurship Competition of University of Science and Technology of China.
+summary: Fire-Extinguishing Microcapsules won the Honorable mention prize in the Qingfeng Cup, the Innovation and Entrepreneurship Competition of University of Science and Technology of China.
 
 # Link this post with a project
 projects: []
@@ -39,11 +39,11 @@ categories:
 ---
 
 # Overview
-  Under the guidance of Zhu Zhiqiang (Special associate researcher) and Huang Fangsheng (Special associate researcher), Chen Tianao and his teammates Ding Dang, Yin Yanbin, Zhu Yuewei and Li Xingxiang won the Honorable Mention prize in Qingfeng cup for the development of fire-extinguishing microcapsule manufacturing system.
+  Under the guidance of Zhu Zhiqiang (Special associate researcher) and Huang Fangsheng (Special associate researcher), Chen Tianao and his teammates Ding Dang, Yin Yanbin, Zhu Yuewei and Li Xingxiang won the Honorable Mention prize in Qingfeng Cup for the development of fire-extinguishing microcapsule manufacturing system.
 
 # Introduction
   As an energy carrier that can realize the mutual conversion of chemical and electrical energy, lithium-ion batteries are widely used in portable electronic devices, smart grid energy storage, new energy vehicle power systems, etc. due to their high operating voltage, good cycling performance, no memory effect, high specific energy, good stability and long service life.
-
+C
   At present, lithium-ion batteries are still not intrinsically safe. In EVs (electric vehicles) and ESS (energy storage systems), hundreds of batteries are usually used in series and parallel in order to meet the requirements of operating voltage and power, and they face problems of extrusion, breakdown, temperature shock, overcharge and short circuit under long time use. Once the battery is under such conditions, the battery may generate a large amount of heat, which triggers a chain reaction of internal electrolyte and electrode materials (leading to electrolyte and positive electrode decomposition), which in turn leads to thermal runaway and may develop into a large-scale explosion and fire accident.
 
   A common strategy to prevent thermal runaway in Li-ion batteries is to modify the surface of the diaphragm using inorganic particles (e.g., ceramics and titanium oxide) that are highly thermally stable to improve the heat resistance of the diaphragm. The compatibility of inorganic particles with the diaphragm is usually poor and requires the use of a binder, however the use of a binder will inevitably reduce the porosity of the diaphragm and significantly increase the thickness of the separator, which is not conducive to efficient ion transport in the separator.
