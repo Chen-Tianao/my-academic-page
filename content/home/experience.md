@@ -30,9 +30,8 @@ experience:
     date_start: '2021-09-06'
     date_end: ''
     description: |2-
-      School of Engineering Science
-    |2-
-      Responsibilities include:
+      - School of Engineering Science
+      - Responsibilities include:
         
         * Cell laboratory management
         * Scientific research for microrobots and droplet microfluidics
