@@ -6,7 +6,7 @@ subtitle: Achieved good results in the Innovation and Entrepreneurship Competiti
 summary: Fire-Extinguishing Microcapsules won the Honorable Mention Prize in the Qingfeng Cup, the Innovation and Entrepreneurship Competition of University of Science and Technology of China.
 
 # Link this post with a project
-projects: [Fire-Extinguishing Materials]
+projects: [({{< relref "/project/fire-extinguishing-microcapsules" >}})]
 
 # Date published
 date: '2022-05-02T12:00:00Z'
@@ -32,14 +32,15 @@ authors:
   - admin
 
 tags:
-  - Research & Development
+  - Industrial R&D
+  - Fire-Extinguishing Materials
 
 categories:
   - Competition
 ---
 
 # Overview
-  Under the guidance of **Zhu Zhiqiang** (Special associate researcher) and **Huang Fangsheng** (Special associate researcher), **Chen Tianao** and his teammates **Ding Dang**, **Yin Yanbin**, **Zhu Yuewei** and **Li Xingxiang** won the Honorable Mention Prize in Qingfeng Cup for the **development of fire-extinguishing microcapsule manufacturing system**.
+  Under the guidance of **_Zhu Zhiqiang_** (Special associate researcher) and **_Huang Fangsheng_** (Special associate researcher), **_Chen Tianao_** and his teammates **_Ding Dang_**, **_Yin Yanbin_**, **_Zhu Yuewei_** and **_Li Xingxiang_** won the Honorable Mention Prize in Qingfeng Cup for the **development of fire-extinguishing microcapsule manufacturing system**.
 
 # Introduction
   As an energy carrier that can realize the mutual conversion of chemical and electrical energy, lithium-ion batteries are widely used in portable electronic devices, smart grid energy storage, new energy vehicle power systems, etc. due to their high operating voltage, good cycling performance, no memory effect, high specific energy, good stability and long service life.
