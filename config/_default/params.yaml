@@ -23,7 +23,7 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    microsoft_clarity: ''
+    microsoft_clarity: 'br44v14mba'
   verification:
     google: ''
     baidu: ''
