@@ -6,7 +6,7 @@ subtitle: Achieved good results in the Innovation and Entrepreneurship Competiti
 summary: Fire-Extinguishing Microcapsules won the Honorable Mention Prize in the Qingfeng Cup, the Innovation and Entrepreneurship Competition of University of Science and Technology of China.
 
 # Link this post with a project
-projects: [Fire-Extinguishing Materials({{< relref "/project/fire-extinguishing-microcapsules" >}})]
+projects: [Fire-Extinguishing Materials]
 
 # Date published
 date: '2022-05-02T12:00:00Z'
