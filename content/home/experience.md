@@ -30,7 +30,9 @@ experience:
     date_start: '2021-09-06'
     date_end: ''
     description: |2-
-        Responsibilities include:
+      Department of Precision Machinery and Precision Instrumentation
+      School of Engineering Science
+      Responsibilities include:
         
         * Cell laboratory management
         * Scientific research for microrobots and droplet microfluidics
@@ -44,7 +46,8 @@ experience:
     date_start: '2017-09-01'
     date_end: '2021-06-22'
     description: |2-
-        Main courses include:
+      School of Ocean Science and Technology
+      Main courses include:
         
         * Continuum Mechanics & Robotics
         * Sensor Principle & Signal Processing

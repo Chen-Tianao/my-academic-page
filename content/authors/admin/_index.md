@@ -28,14 +28,10 @@ interests:
 education:
   courses:
     - course: MPhil in Instrument Science and Technology
-      institution:
-        - School of Engineering Science
-        - University of Science and Technology of China
+      institution: University of Science and Technology of China
       year: 2024
     - course: BEng in Ocean Technology
-      institution:
-        - School of Ocean Science and Technology
-        - Dalian University of Technology
+      institution: Dalian University of Technology
       year: 2021
 
 # Social/Academic Networking
