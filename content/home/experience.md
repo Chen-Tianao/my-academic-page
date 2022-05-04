@@ -30,12 +30,12 @@ experience:
     date_start: '2021-09-06'
     date_end: ''
     description: |2-
-      School of Engineering Science\n
+      'School of Engineering Science
       Responsibilities include:
         
         * Cell laboratory management
         * Scientific research for microrobots and droplet microfluidics
-        * Assisting industrialization of scientific research achievements
+        * Assisting industrialization of scientific research achievements'
 
   - title: Undergraduate Student
     company: Dalian University of Technology
