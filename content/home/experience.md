@@ -54,5 +54,5 @@ experience:
         * Embedded Development
         * Scientific Computing Programming
 design:
-  columns: '2'
+  columns: '4'
 ---
