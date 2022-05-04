@@ -34,7 +34,7 @@ Welcome to follow this project!🤝
 
 Our team is willing to discuss and cooperate with relevant experts, engineers and technicians in depth on the development and industrial application of fire extinguishing microcapsules. 
 
-For more information, please check this 👉 ({{< relref "/post/qingfeng-cup-2022" >}})
+For more information, please check this post 👉: https://chen-tianao.netlify.app/post/qingfeng-cup-2022/
 # Project Profile
 At present, lithium-ion batteries are still not intrinsically safe. In EVs (electric vehicles) and ESS (energy storage systems), hundreds of batteries are usually used in series and parallel in order to meet the requirements of operating voltage and power, and they face problems of extrusion, breakdown, temperature shock, overcharge and short circuit under long time use. Once the battery is under such conditions, the battery may generate a large amount of heat, which triggers a chain reaction of internal electrolyte and electrode materials (leading to electrolyte and positive electrode decomposition), which in turn leads to thermal runaway and may develop into a large-scale explosion and fire accident.
 
