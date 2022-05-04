@@ -44,7 +44,7 @@ categories:
 
 # Introduction
   As an energy carrier that can realize the mutual conversion of chemical and electrical energy, lithium-ion batteries are widely used in portable electronic devices, smart grid energy storage, new energy vehicle power systems, etc. due to their high operating voltage, good cycling performance, no memory effect, high specific energy, good stability and long service life.
-C
+  
   **At present, lithium-ion batteries are still not intrinsically safe.** In EVs (electric vehicles) and ESS (energy storage systems), hundreds of batteries are usually used in series and parallel in order to meet the requirements of operating voltage and power, and they face problems of extrusion, breakdown, temperature shock, overcharge and short circuit under long time use. Once the battery is under such conditions, the battery may generate a large amount of heat, which triggers a chain reaction of internal electrolyte and electrode materials (leading to electrolyte and positive electrode decomposition), which in turn leads to thermal runaway and may develop into a large-scale explosion and fire accident.
 
   A common strategy to prevent thermal runaway in Li-ion batteries is to modify the surface of the diaphragm using inorganic particles (e.g., ceramics and titanium oxide) that are highly thermally stable to improve the heat resistance of the diaphragm. The compatibility of inorganic particles with the diaphragm is usually poor and requires the use of a binder, however the use of a binder will inevitably reduce the porosity of the diaphragm and significantly increase the thickness of the separator, which is not conducive to efficient ion transport in the separator.
