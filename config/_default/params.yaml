@@ -18,15 +18,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'University of Science and Technology of China'
-    description: ''
+    description: 'Chen Tianao's Personal Academic Website'
     twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
     google: ''
-    baidu: '2f749b9825f50acc09b4781e263b4cd0'
-    bing: 'E13D5613B229407469AE3673DF0B3DCC'
+    baidu: 2f749b9825f50acc09b4781e263b4cd0
+    bing: E13D5613B229407469AE3673DF0B3DCC
 
 # Site header
 
