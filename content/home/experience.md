@@ -29,7 +29,7 @@ experience:
     location: Hefei, Anhui Province, China
     date_start: '2021-09-06'
     date_end: ''
-    description: |2
+    description: |2+
       - School of Engineering Science
       - Responsibilities include:
         
