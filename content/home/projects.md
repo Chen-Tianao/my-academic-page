@@ -27,12 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Microfluidics
-      tag: Academic Research
-    - name: Microrobots
-      tag: Academic Research
-    - name: Microcapsules
-      tag: Industrial Research
+    - name: Academic R&D
+      tag: Academic
+    - name: Industrial R&D
+      tag: Industrial
+    - name: Course Projects 
+      tag: Course
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
