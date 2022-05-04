@@ -81,10 +81,3 @@
   icon = "tumblr"
   enable = false
  
-[[buttons]]
-  id = "xing"
-  url = "https://www.xing.com/spi/shares/new?url={url}&title={title}"
-  title = "Xing"
-  icon_pack = "fab"
-  icon = "xing"
-  enable = false
