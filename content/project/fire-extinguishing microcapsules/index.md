@@ -2,7 +2,7 @@
 title: Fire-Extinguishing Microcapsules
 summary: Research and development of fire-extinguishing microcapsules.
 tags:
-  - Industrial
+  - Fire-Extinguishing
 date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

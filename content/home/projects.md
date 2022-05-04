@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Academic R&D
-      tag: Academic
-    - name: Industrial R&D
-      tag: Industrial
+    - name: Micro-robotics
+      tag: Microrobots
+    - name: Fire-Extinguishing Materials
+      tag: Fire-Extinguishing
     - name: Course Projects 
       tag: Course
 
