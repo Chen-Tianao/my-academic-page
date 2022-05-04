@@ -35,9 +35,9 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '31.840572'
-    longitude: '117.258651'
-  directions: Enter the East Building of Laboratory Edifice and take the elevator to Office 417 on the floor 4
+    latitude: '31.840580'
+    longitude: '117.25864'
+  directions: Enter the East Sub-Building of the Science and Technology Laboratory Building and take the elevator to Office 417 on the 4th floor.
   office_hours:
     - 'Friday 9:00 to 11:00'
     - 'Saturday 14:00 to 17:00'
