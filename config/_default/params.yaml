@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Mr Robot
-  theme_night: Mr Robot
-  font: Mr Robot
+  theme_day: Cyberpunk
+  theme_night: Cyberpunk
+  font: Cyberpunk
   font_size: L
 
 # SEO
@@ -25,7 +25,8 @@ marketing:
     baidu_tongji: ''
   verification:
     google: ''
-    baidu: '<meta name="baidu-site-verification" content="code-0J6tLcZqqP" />'
+    baidu: '2f749b9825f50acc09b4781e263b4cd0'
+    bing: 'E13D5613B229407469AE3673DF0B3DCC'
 
 # Site header
 
@@ -43,9 +44,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Chen Tianao. This work is for private academic uses.'
+    notice: '© {year} Chen Tianao. This work is for private academic use.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
