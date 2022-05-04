@@ -30,7 +30,6 @@ experience:
     date_start: '2021-09-06'
     date_end: ''
     description: |2-
-
       Responsibilities include:
         
         * Cell laboratory management
@@ -45,7 +44,6 @@ experience:
     date_start: '2017-09-01'
     date_end: '2021-06-22'
     description: |2-
-    
       Main courses include:
         
         * Continuum Mechanics & Robotics

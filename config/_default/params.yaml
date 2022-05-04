@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'University of Science and Technology of China'
-    description: 'Chen Tianao's Personal Academic Website'
+    description: 'Personal Academic Website'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -106,5 +106,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+    
 icon.pack:
   ai: true
