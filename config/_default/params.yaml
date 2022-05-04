@@ -23,7 +23,7 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: '11fe9c22a6d1efc3a6e1b4f058dbc3f5'
-    microsoft_clarity: 'br44v14mba'
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: '2f749b9825f50acc09b4781e263b4cd0'
