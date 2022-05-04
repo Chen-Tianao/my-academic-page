@@ -74,7 +74,7 @@ features:
   repository:
     url: 'https://github.com/Otho-Aurelius/my-academic-page'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: square
