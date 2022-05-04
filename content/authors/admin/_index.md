@@ -8,7 +8,7 @@ title: Chen Tianao
 superuser: true
 
 # Role/position/tagline
-role: Master's Student of Engineering Science
+role: Master's Student in Engineering Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,22 +16,26 @@ organizations:
     url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master's Student at the Department of Precision Machinery and Precision Instrumentation, focusing on the research of micro-robotics and droplet microfluidic technology.
+bio: Master's Student in Instrument Science and Technology, focusing on the research of micro-robotics and droplet microfluidic technology.
 
 # Interests to show in About widget
 interests:
-  - Microfluidics
-  - Microrobots
-  - Flexible Sensing
+  - Droplet Microfluidics
+  - Microrobots & Bio-MEMS
+  - Flexible Sensing & E-Skin
 
 # Education to show in About widget
 education:
   courses:
     - course: MPhil in Instrument Science and Technology
-      institution: University of Science and Technology of China
-      year: 2024 
+      institution: |2-
+        School of Engineering Science
+        University of Science and Technology of China
+      year: 2024
     - course: BEng in Ocean Technology
-      institution: Dalian University of Technology
+      institution: |2-
+        School of Ocean Science and Technology
+        Dalian University of Technology
       year: 2021
 
 # Social/Academic Networking
@@ -72,7 +76,7 @@ email: 'cta697140@mail.ustc.edu.cn'
 highlight_name: true
 ---
 
-Chen Tianao (陈天傲) is a Master's Student of Instrument Science and Technology at the University of Science and Technology of China. He works in the Droplet Microfluidics and Microencapsulation group of the lab for Multimodal Biomedical Imaging and Therapy (MBIT). His research interests include microscopic robotics, droplet microfluidic technology and flexible sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into microrobots for biomedical engineering or integration into flexible electronic systems.  
+Chen Tianao (陈天傲) is a Master's Student in the Department of Precision Machinery and Precision Instrumentation, School of Engineering Science, University of Science and Technology of China (USTC). He works in the Droplet Microfluidics and Microencapsulation group of the lab for Multimodal Biomedical Imaging and Therapy (MBIT). His research interests include microscopic robotics, droplet microfluidic technology and flexible sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into microrobots for biomedical engineering or integration into flexible electronic systems.
 
 In addition to scientific research, he also focuses on the industrialization process of microfluidic soft manufacturing technology, including the development of functional microcapsules by jet technology, such as fire-extinguishing microcapsules, drug-loaded embolization microspheres, etc.
 
