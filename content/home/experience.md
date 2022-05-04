@@ -33,9 +33,9 @@ experience:
       - School of Engineering Science
       - Responsibilities include:
         
-        -- Cell laboratory management
-        -- Scientific research for microrobots and droplet microfluidics
-        -- Assisting industrialization of scientific research achievements
+        ** Cell laboratory management
+        ** Scientific research for microrobots and droplet microfluidics
+        ** Assisting industrialization of scientific research achievements
 
   - title: Undergraduate Student
     company: Dalian University of Technology
