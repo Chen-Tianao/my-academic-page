@@ -29,9 +29,8 @@ experience:
     location: Hefei, Anhui Province, China
     date_start: '2021-09-06'
     date_end: ''
-    description: |+
-      - School of Engineering Science
-      - Responsibilities include:
+    description: |2-
+      Responsibilities include:
         
         * Cell laboratory management
         * Scientific research for microrobots and droplet microfluidics
