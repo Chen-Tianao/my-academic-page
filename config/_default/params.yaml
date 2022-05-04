@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Minimal
-  theme_night: Minimal
+  theme_day: Mr Robot
+  theme_night: Cyberpunk
   font: Minimal
   font_size: L
 
@@ -106,6 +106,5 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-    
 icon.pack:
   ai: true
