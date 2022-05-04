@@ -36,7 +36,7 @@ content:
     country_code: CN
   coordinates:
     latitude: '31.8427'
-    longitude: '117.2532'
+    longitude: '117.2533'
   directions: Enter the East Sub-Building of the Science and Technology Laboratory Building and take the elevator to Office 417 on the 4th floor.
   office_hours:
     - 'Friday 9:00 to 11:00'
