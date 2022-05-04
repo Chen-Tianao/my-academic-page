@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: TIANAO'S ACADEMIC PROFILE # Website name
-baseURL: 'https://Chen-Tianao.github.io/' # Website URL
+baseURL: 'http://home.ustc.edu.cn/~cta697140/' # Website URL
 
 ############################
 ## LANGUAGE

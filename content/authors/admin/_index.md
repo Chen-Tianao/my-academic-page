@@ -50,7 +50,7 @@ social:
     link: https://www.researchgate.net/profile/Tianao-Chen-2
   - icon: github
     icon_pack: fab
-    link: https://github.com/Otho-Aurelius
+    link: https://github.com/Chen-Tianao
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-4041-0210
