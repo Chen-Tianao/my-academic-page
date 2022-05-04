@@ -29,7 +29,7 @@ experience:
     location: Hefei, Anhui Province, China
     date_start: '2021-09-06'
     date_end: ''
-    description: |4-
+    description: |2-
       Department of Precision Machinery and Precision Instrumentation
       School of Engineering Science
       Responsibilities include:
@@ -45,7 +45,7 @@ experience:
     location: Dalian & Panjin, Liaoning Province, China
     date_start: '2017-09-01'
     date_end: '2021-06-22'
-    description: |4-
+    description: |2-
       School of Ocean Science and Technology
       Main courses include:
         

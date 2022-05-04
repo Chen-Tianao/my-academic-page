@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Rose
-  theme_night: Rose
-  font: Rose
+  theme_day: Mr Robot
+  theme_night: Mr Robot
+  font: Mr Robot
   font_size: L
 
 # SEO
@@ -25,7 +25,7 @@ marketing:
     baidu_tongji: ''
   verification:
     google: ''
-    baidu: ''
+    baidu: 'code-0J6tLcZqqP'
 
 # Site header
 
@@ -45,7 +45,7 @@ footer:
   copyright:
     notice: '© {year} Chen Tianao. This work is for private academic uses.'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -72,7 +72,7 @@ features:
   repository:
     url: 'https://github.com/Otho-Aurelius/my-academic-page'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: square
@@ -94,6 +94,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  share: true
 
 # Extensions
 
@@ -103,6 +104,5 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-
 icon.pack:
   ai: true
