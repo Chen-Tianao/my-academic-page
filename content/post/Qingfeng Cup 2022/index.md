@@ -66,4 +66,4 @@ C
   In the pre-exploration, we have not only verified that the fire extinguishing microcapsules developed by our team can remain stable in the electrolyte (30 days), but have also conducted experiments on small batteries (aluminum-plastic film batteries, 3.2V-40Ah) and achieved good fire extinguishing results.
 
 # Notes
-  The discussion in this article is derived from many domestic and foreign literature, please correct any inappropriate points.
+  The content of this paper is derived from a number of domestic and international literature, please correct any inaccuracies.
