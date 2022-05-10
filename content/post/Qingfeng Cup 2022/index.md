@@ -62,7 +62,7 @@ categories:
   
   Noteworthy, at low concentrations, perflourohexanone can instead enhance combustion. Therefore, according to the actual lithium-ion battery ignition conditions, it is necessary to select a suitable high boiling point, high heat of vaporization and high specific heat composite fire extinguishing agent (fire extinguishing agent + coolant) in order to ensure the fire extinguishing performance while taking into account the cooling capacity.
 
-  **However, perfluorohexanone is difficult to microencapsulate because of its inactive nature, which makes it difficult to dissolve or be dissolved into other substances and thus cannot be chemically synthesized into microcapsules. In addition, the high density and volatility of perflourohexanone make it difficult to be microencapsulated by other general techniques.**
+  **However, perfluorhexanone is difficult to microencapsulate because its inactive nature makes it difficult to dissolve or be dissolved into other substances, making it difficult to synthesize microcapsules by chemical methods. In addition, the high density and volatility of perflourohexanone make it difficult to be microencapsulated by other general techniques.**
 
   To address these issues, our team encapsulated perflourohexanone through **actively excited microfluidic technology**, which not only isolates it from the external environment to protect and store the extinguishing agent, but when the ambient temperature rises (~80°C), perflourohexanone, the core material, absorbs heat and evaporates, rising through the outer walls of the microcapsules, thereby releasing and inhibiting further chain reactions and eliminating the fire before it is too late.
 
