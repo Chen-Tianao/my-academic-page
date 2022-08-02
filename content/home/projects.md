@@ -27,10 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Microrobot Structure Engineering  
-      tag: M-robot Structure Engineering
-    - name: Microrobot Control Systems  
-      tag: M-robot Control Systems
+    - name: Micro-robotics  
+      tag: Microrobot
     - name: Droplet Microfluidics  
       tag: Droplet     
     - name: Fire Retardant Materials
