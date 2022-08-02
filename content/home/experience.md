@@ -49,7 +49,7 @@ experience:
         * Continuum Mechanics & Underwater Robotics
         * Sensor Principles & Signal Processing
         * Embedded System Development
-        * Scientific Computation
+        * Scientific Computation Methods
 design:
   columns: '2'
 ---
