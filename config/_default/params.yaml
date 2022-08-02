@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Chen Tianao. This work is for private academic use.'
+    notice: '© {year} Chen Tianao (陈天傲). This work is only for private academic use.'
     license:
       enable: false
       allow_derivatives: false

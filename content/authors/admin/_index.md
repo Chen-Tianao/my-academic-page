@@ -16,13 +16,13 @@ organizations:
     url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master's Student in Instrument Science and Technology, focusing on the research of micro-robotics and droplet microfluidic technology.
+bio: Master's Student in Instrument Science and Technology, focusing on the research of micro-robotics and droplet microfluidics.
 
 # Interests to show in About widget
 interests:
   - Droplet Microfluidics
-  - Microrobots & Bio-MEMS
-  - Flexible Sensing & E-Skin
+  - Microrobots & Microactuators
+  - Theranostic instruments
 
 # Education to show in About widget
 education:
@@ -72,8 +72,8 @@ email: 'cta697140@mail.ustc.edu.cn'
 highlight_name: true
 ---
 
-Chen Tianao (陈天傲) is a Master's Student in the Department of Precision Machinery and Precision Instrumentation, School of Engineering Science, University of Science and Technology of China (USTC). He works in the Droplet Microfluidics and Microencapsulation group of the lab for Multimodal Biomedical Imaging and Therapy (MBIT). His research interests include microscopic robotics, droplet microfluidic technology and flexible sensing. He focuses on the application of advanced materials and soft manufacturing techniques to develop micro-units for further functionalization into microrobots for biomedical engineering or integration into flexible electronic systems.
+Chen Tianao (陈天傲) is a Master's Student in the Department of Precision Machinery and Precision Instrumentation, School of Engineering Science, University of Science and Technology of China (USTC). He works in the group for *Microfluidics & Material Science*, which's affiliated with the lab for *Multimodal Biomedical Imaging and Therapy* (MBIT). His research interests include microscopic robotics, droplet microfluidics and theranostic instruments. He's focusing on applying the soft manufacturing techniques to process advanced materials for developing versatile microstructures as functional units of the microrobots.
 
-In addition to scientific research, he also focuses on the industrialization process of microfluidic soft manufacturing technology, including the development of functional microcapsules by jet technology, such as fire-extinguishing microcapsules, drug-loaded embolization microspheres, etc.
+In addition to his major research, Chen is also following the project of functional microcapsule & microfiber materials, including the drug-controlled release embolic microcapsules (under development) and fire-extinguishing microcapsules (under industrialization).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
