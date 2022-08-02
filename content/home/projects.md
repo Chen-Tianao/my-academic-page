@@ -28,11 +28,9 @@ content:
     - name: All
       tag: '*'
     - name: Microrobot Structure Engineering  
-      tag: 
-        - Structure Engineering
-        - Micro-robotics
+      tag: Microrobot
     - name: Microrobot Control Systems  
-      tag: Control Systems
+      tag: Microrobot
     #- name: Droplet Microfluidics  
      # tag: 
       #  - Droplet Microfluidics     
