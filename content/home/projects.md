@@ -30,9 +30,7 @@ content:
     - name: Microrobot Structure Engineering  
       tag: Structure Engineering
     - name: Microrobot Control Systems  
-      tag: 
-        - Micro-robotics
-        - Control Systems
+      tag: Control Systems
     #- name: Droplet Microfluidics  
      # tag: 
       #  - Droplet Microfluidics     
@@ -50,7 +48,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
