@@ -1,6 +1,6 @@
 ---
-title: Fireproof Microcapsules
-summary: Introduction and progress of fireproof microcapsules.
+title: Medical Devices
+summary: Medical Devices
 tags:
   - Practicum
   - Medical Devices
@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "Principle and Design of Medical Devices" 
+slides = "" 
 ---
 # Notice
 Welcome to follow this project!🤝
