@@ -11,7 +11,7 @@ date: '2022-08-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: 'Image credit: [**Reference**](https://link.springer.com/article/10.1007/s12213-016-0087-x)'
+  caption: 'Image credit: [**Frontiers of robotic endoscopic capsules: a review**](https://link.springer.com/article/10.1007/s12213-016-0087-x)'
   focal_point: Smart
 
 links:

@@ -33,7 +33,7 @@ experience:
       Responsibilities include:
 
         * Scientific research for microrobots and droplet microfluidics
-        * Management of Innovation & Entrepreneurship project (Fire-extinguishing microcapsules)
+        * Management of Innovation & Entrepreneurship project (Fireproof microcapsules)
         * Cooperative development of controlled drug release embolic microcapsules
 
   - title: Undergraduate Student
