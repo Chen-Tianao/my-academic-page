@@ -2,7 +2,7 @@
 title: Fireproof Microcapsules
 summary: Introduction and progress of fireproof microcapsules.
 tags:
-  - Teaching Practicum
+  - Practicum
   - Medical Devices
   - Capsule Endoscopy Robot
 date: '2022-05-01T00:00:00Z'
