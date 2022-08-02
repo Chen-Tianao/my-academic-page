@@ -28,12 +28,11 @@ content:
     - name: All
       tag: '*'
     - name: Microrobot Structure Engineering  
-      tag: Microrobot
+      tag: M-robot Structure Engineering
     - name: Microrobot Control Systems  
-      tag: Microrobot
-    #- name: Droplet Microfluidics  
-     # tag: 
-      #  - Droplet Microfluidics     
+      tag: M-robot Control Systems
+    - name: Droplet Microfluidics  
+      tag: Droplet     
     - name: Fire Retardant Materials
       tag: Fireproof
     - name: Teaching Practicum 
@@ -48,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
