@@ -1,17 +1,17 @@
 ---
-title: Medical Devices
-summary: Medical Devices
+title: "Practicum Report: Magnetic Capsule Endoscopy Robot"
+summary: A practicum report from Principle and Design of Medical Devices
 tags:
   - Practicum
   - Medical Devices
   - Capsule Endoscopy Robot
-date: '2022-05-01T00:00:00Z'
+date: '2022-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Practicum Report
+  caption: 'Image credit: [**Reference**](https://link.springer.com/article/10.1007/s12213-016-0087-x)'
   focal_point: Smart
 
 links:
@@ -32,13 +32,12 @@ url_video: ''
 slides:
 ---
 # Notice
-Welcome to follow this project!🤝
+Welcome to visit this practicum project!🤝
 
-Our team is willing to discuss and cooperate with relevant experts, engineers and technicians in depth on the development and industrial application of fireproof microcapsules. 
-
-For the latest progress, please check my related post.
-# Project Profile
-## Introduction
+In view of my limited knowledge, there are still many deficiencies in this report. Please forgive and point out my mistakes.
+ 
+# Report
+## 需求分析
   As an energy carrier that can realize the mutual conversion of chemical and electrical energy, lithium-ion batteries are widely used in portable electronic devices, smart grid energy storage, new energy vehicle power systems, etc. due to their high operating voltage, good cycling performance, no memory effect, high specific energy, good stability and long service life.
   
   **At present, lithium-ion batteries are still not intrinsically safe.** In EVs (electric vehicles) and ESS (energy storage systems), hundreds of batteries are usually used in series and parallel in order to meet the requirements of operating voltage and power, and they face problems of extrusion, breakdown, temperature shock, overcharge and short circuit under long time use. Once the battery is under such conditions, the battery may generate a large amount of heat, which triggers a chain reaction of internal electrolyte and electrode materials (leading to electrolyte and positive electrode decomposition), which in turn leads to thermal runaway and may develop into a large-scale explosion and fire accident.
@@ -64,5 +63,3 @@ For the latest progress, please check my related post.
 
   In the pre-exploration, we have not only verified that the fireproof microcapsules developed by our team can remain stable in the electrolyte (30 days), but have also conducted experiments on small batteries (aluminum-plastic film batteries, 3.2V-40Ah) and achieved good fire-extinguishing results.
 
-## Notes
-  The content of this article is derived from a number of literature, please correct any inaccuracies.
