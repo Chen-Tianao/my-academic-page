@@ -1,9 +1,9 @@
 ---
-title: Fire-Extinguishing Microcapsules
-summary: Research and development of fire-extinguishing microcapsules.
+title: Fireproof Microcapsules
+summary: Research and development of fireproof microcapsules.
 tags:
-  - Func-mater
-  - Fire-Extinguishing
+  - Functional Materials
+  - Fireproof
 date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -33,7 +33,7 @@ slides:
 # Overview
 Welcome to follow this project!🤝
 
-Our team is willing to discuss and cooperate with relevant experts, engineers and technicians in depth on the development and industrial application of fire extinguishing microcapsules. 
+Our team is willing to discuss and cooperate with relevant experts, engineers and technicians in depth on the development and industrial application of fireproof microcapsule. 
 
 For more information, please check this post 👉: https://chen-tianao.netlify.app/post/qingfeng-cup-2022/
 # Project Profile
@@ -43,4 +43,4 @@ The use of fire extinguishing agents to suppress the lithium battery deflagratio
 
 To address these issues, our team encapsulated perflourohexanone through actively excited microfluidic technology, which not only isolates it from the external environment to protect and store the extinguishing agent, but when the ambient temperature rises (~80°C), perflourohexanone, the core material, absorbs heat and evaporates, rising through the outer walls of the microcapsules, thereby releasing and inhibiting further chain reactions and eliminating the fire before it is too late.
 
-In the pre-exploration, we have not only verified that the fire extinguishing microcapsules developed by our team can remain stable in the electrolyte (30 days), but have also conducted experiments on small batteries (aluminum-plastic film batteries, 3.2V-40Ah) and achieved good fire extinguishing results.
+In the pre-exploration, we have not only verified that the fireproof microcapsule developed by our team can remain stable in the electrolyte (30 days), but have also conducted experiments on small batteries (aluminum-plastic film batteries, 3.2V-40Ah) and achieved good fire extinguishing results.

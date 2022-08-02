@@ -27,14 +27,23 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Micro-robotics
-      tag: M-robot
-    - name: 
+    - name: Microrobot Structure Engineering  
       tag: 
-    - name: Functional Materials
-      tag: Func-Mater
+        - Micro-robotics
+        - Structure Engineering
+    - name: Microrobot Control Systems  
+      tag: 
+        - Micro-robotics
+        - Control Systems
+    - name: Droplet Microfluidics  
+      tag: 
+        - Droplet Microfluidics     
+    - name: Fire Retardant Materials
+      tag: 
+      - Functional Materials
+      - Fireproof
     - name: Teaching Practicum 
-      tag: Pract
+      tag: Practicum
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -45,7 +54,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
