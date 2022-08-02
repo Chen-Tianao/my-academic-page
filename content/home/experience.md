@@ -31,10 +31,10 @@ experience:
     date_end: ''
     description: |2-
       Responsibilities include:
-        
-        * Cell laboratory management
+
         * Scientific research for microrobots and droplet microfluidics
-        * Assisting industrialization of scientific research achievements
+        * Management of Innovation & Entrepreneurship project (Fire-extinguishing microcapsules)
+        * Cooperative development of controlled drug release embolic microcapsules
 
   - title: Undergraduate Student
     company: Dalian University of Technology
@@ -46,10 +46,10 @@ experience:
     description: |2-
       Main courses include:
         
-        * Continuum Mechanics & Robotics
-        * Sensor Principle & Signal Processing
-        * Embedded Development
-        * Scientific Computing Programming
+        * Continuum Mechanics & Underwater Robotics
+        * Sensor Principles & Signal Processing
+        * Embedded System Development
+        * Scientific Computation
 design:
   columns: '2'
 ---
