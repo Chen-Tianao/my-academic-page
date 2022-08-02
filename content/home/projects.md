@@ -28,11 +28,13 @@ content:
     - name: All
       tag: '*'
     - name: Micro-robotics
-      tag: Microrobots
-    - name: Fire-Extinguishing Materials
-      tag: Fire-Extinguishing
-    - name: Course Projects 
-      tag: Course
+      tag: M-robot
+    - name: 
+      tag: 
+    - name: Functional Materials
+      tag: Func-Mater
+    - name: Teaching Practicum 
+      tag: Pract
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -43,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
