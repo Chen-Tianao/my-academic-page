@@ -29,18 +29,18 @@ content:
       tag: '*'
     - name: Microrobot Structure Engineering  
       tag: 
-        - Micro-robotics
+      #  - Micro-robotics
         - Structure Engineering
     - name: Microrobot Control Systems  
       tag: 
-        - Micro-robotics
+      #  - Micro-robotics
         - Control Systems
     - name: Droplet Microfluidics  
       tag: 
         - Droplet Microfluidics     
     - name: Fire Retardant Materials
       tag: 
-      - Functional Materials
+     # - Functional Materials
       - Fireproof
     - name: Teaching Practicum 
       tag: Practicum
