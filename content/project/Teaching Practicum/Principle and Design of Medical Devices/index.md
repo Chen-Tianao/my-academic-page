@@ -39,26 +39,30 @@ In view of my limited knowledge, there are still many deficiencies in this repor
 # Report
 ## 需求分析
   消化道系统疾病是人类社会中最常见的疾病之一，无论年龄、性别还是地域，几乎所有人都经历过消化道系统疾病的困扰。随着年龄的增长，罹患消化道系统的概率与频率将不断增长，而在当今21世纪的全球人口达到人类历史顶峰和社会老龄化现象逐渐蔓延的情况下，消化道系统疾病将会给各国的社会保障体系和医疗保健系统造成前所未有的压力[1-7]。据相关数据统计[1, 7]，胃溃疡或十二指肠消化性溃疡在欧洲人群中的总患病率为4.1%，在中国人群中总患病率则为17.2%，而胃病的全球人群中的总患病率更是高达50%，胃癌不仅是四大常见癌症之一，还是常见癌症中第二大死亡诱因。
-尽管消化道系统疾病种类繁多、疗法复杂，但是定期的筛查与发生异常时的诊断肯定是治疗消化道系统疾病必不可少的一环。内窥镜不仅是临床上进行疾病诊断的常见手段，也是检查消化道系统疾病的金标准[5-10]。具体而言，胃肠道约有9米，其中，小肠约占三分之二，易患有出血、溃疡、吸收不良、炎症、狭窄、息肉和癌症等疾病。然而，传统的光导纤维内窥镜存在结构上粗硬、成像质量较差等问题，进一步来说，基于有线信号传输与机械传动的侵入性有线内窥镜难以深入消化道进行观察，特别是实现全小肠的检查[5-8]。于是，本文基于内窥镜在消化道系统疾病的诊疗过程的重要地位，总结了三类新型内窥镜以进行创新医疗器械的需求筛选，并最终确定磁控胶囊式内窥镜系统为当前国内该领域的医疗器械创新方案首选。
-| Syntax      | Description | Syntax      | Description | Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+  尽管消化道系统疾病种类繁多、疗法复杂，但是定期的筛查与发生异常时的诊断肯定是治疗消化道系统疾病必不可少的一环。内窥镜不仅是临床上进行疾病诊断的常见手段，也是检查消化道系统疾病的金标准[5-10]。具体而言，胃肠道约有9米，其中，小肠约占三分之二，易患有出血、溃疡、吸收不良、炎症、狭窄、息肉和癌症等疾病。然而，传统的光导纤维内窥镜存在结构上粗硬、成像质量较差等问题，进一步来说，基于有线信号传输与机械传动的侵入性有线内窥镜难以深入消化道进行观察，特别是实现全小肠的检查[5-8]。于是，本文基于内窥镜在消化道系统疾病的诊疗过程的重要地位，总结了三类新型内窥镜以进行创新医疗器械的需求筛选，并最终确定磁控胶囊式内窥镜系统为当前国内该领域的医疗器械创新方案首选。
+  总而言之，本文旨在：针对1）有线内窥镜检查范围以外的消化道部位（例如小肠）疑似病变的患者；2）麻醉、镇静或止痛药等风险高的患者，来设计一种无创检查消化道的内窥镜系统，其应当能够有效检查全部小肠，并克服有线内窥镜必须实施麻醉、操作技术要求高、患者不适感重导致的依从度低，以及容易造成消化道组织创伤等问题。
 
-## Fireproof Microcapsules
-  The use of fire-extinguishing agents to suppress the lithium battery deflagration is a good choice. However, the existing fire-extinguishing agents halogenated alkane 1301, carbon dioxide, heptafluoropropane, can only extinguish the open fire, but can not fundamentally inhibit the fire, which leads to the re-ignition of the battery, and does not have the dual function of cooling and fire-extinguishing.
-
-  **Moreover, complex fire fighting facilities will increase the weight or volume of the energy storage system, which is not absolutely reliable in the case of thermal runaway.** Therefore, the selection of suitable fire-extinguishing agents and the design of new fire-extinguishing devices are important research areas for the large-scale application of lithium-ion batteries.
-
-  Therefore, considering the shortcomings of most halogenated hydrocarbon extinguishing agents such as high cost, low boiling point, difficult storage, use of complex equipment fittings, and high pressure required for injection, microencapsulation of halogenated hydrocarbon extinguishing agents is a good and feasible solution. So, what can be used as the core material of microcapsules to effectively achieve fire-extinguishing and flame retardant function?
-
-  It was found that fluorinated derivatives can stop the chain reaction that occurs during lithium-ion battery combustion and have no other negative effects on electrical equipment, such as perfluorocaproone (NOVEC 1230), a green fire-extinguishing agent that contains no bromine or chlorine, has an almost zero ozone depletion value, and degrades completely in the atmosphere within 1 to 2 weeks.
+## 产品定义
+### 工作原理与设计指标
+  人体消化道系统组成复杂，不同部位具有不同的物理化学特征，因此必须根据需求专门开展相应的胶囊内窥镜系统设计。具体而言，人体食道短且吞咽胶囊内窥镜时速度较快，因此需要具备多摄像头系统、广角光学镜头以及高速摄影功能的胶囊内窥镜；在检查胃部情况时，则需要动力性能好、可操控性强，以及图像传输帧率快的胶囊内窥镜；而在检查狭窄曲折的小肠时，一般可以通过肠道蠕动进行缓慢细致的检查，因此需要更小尺寸和更长续航的胶囊机器人，而对图像传输帧率的要求反而不高[7]。
+  然而，不管是针对消化道系统哪一部分的检查，现有的胶囊内窥镜系统都可以归结为以下4个关键技术的集成，分别是：
+  1.互补金属氧化物半导体技术（CMOS）
+  2.专用集成电路技术（ASIC）
+  3.微型发光二极管技术（LEDs）
+  4.无线通信技术（Bluetooth, ZigBee, Wi-Fi, RF）
+  实际上，商业胶囊内窥镜系统首发于2000年，名为M2A，由以色列的Given Imaging公司发布，并于2001年获得FDA临床试验许可[7, 12]。时至今日，胶囊内窥镜已从仅靠胃肠道蠕动而位移以及受限的镜头拍摄视角的被动检查方式，发展到了如今可基于外部磁场或自身执行机构来调整姿态或运动的主动检查方式，因而又可称胶囊内窥镜为胶囊机器人[1, 2, 6, 13-16]。综上所述，本文认为合格的消化道疾病（特别是小肠疾病）筛查/诊断胶囊式内窥镜机器人应当按照如下方式设计：
   
-  Noteworthy, at low concentrations, perflourohexanone can instead enhance combustion. Therefore, according to the actual lithium-ion battery ignition conditions, it is necessary to select a suitable high boiling point, high heat of vaporization and high specific heat composite fire-extinguishing agent (fire-extinguishing agent + coolant) in order to ensure the fire-extinguishing performance while taking into account the cooling capacity.
+  1.生物相容材料外壳：如医用不锈钢316L与317L、铂基合金、钛基合金以及硅酮弹性体等。为了进一步保证生物安全性，也可对外壳进行表面处理，比如覆盖聚四氟乙烯或膨体聚四氟乙烯涂层。
+    此外，若考虑到胃肠道蠕动功能障碍，或肠道过于狭窄的患者，也可采用复合外壳结构设计：用一层薄薄的硅酮弹性体构成最内层壳，或由其分别封装各个部件，而外层全部采用具有一定机械强度的生物可降解材料以提供初始的物理支撑，例如糖类、水凝胶类或其他可降解高分子聚合物。在完成任务后，胶囊内窥镜机器人的相当一部分便可在消化道中逐渐降解，因此尺寸进一步缩小，刚度显著下降，从而具有很大的顺应性，以便通过后续的消化道。
 
-  **However, perfluorhexanone is difficult to microencapsulate because its inactive nature makes it difficult to dissolve or be dissolved into other substances, making it difficult to synthesize microcapsules by chemical methods. In addition, the high density and volatility of perflourohexanone make it difficult to be microencapsulated by other general techniques.**
+  2.长续航能源供应：最基础的能源可由若干枚微型氧化银纽扣电池提供，但考虑到小肠较为狭窄这一物理特征，因而必须要优先保证胶囊机器人的小尺寸，再确定纽扣电池的数量。进一步而言，可采用功率密度更大的锂离子聚合物电池，或者直接利用无线电力传输技术（WPT），即借助外部交变磁场促使体内胶囊机器人的线圈产生感应电势与电流。
 
-  To address these issues, our team encapsulated perflourohexanone through **actively excited microfluidic technology**, which not only isolates it from the external environment to protect and store the extinguishing agent, but when the ambient temperature rises (~80°C), perflourohexanone, the core material, absorbs heat and evaporates, rising through the outer walls of the microcapsules, thereby releasing and inhibiting further chain reactions and eliminating the fire before it is too late.
+  3.高质量图像采集：摄像系统构成的两个基本要素为相机与照明，胶囊机器人也不例外。目前，胶囊机器人图像信息处理与控制器主要基于MCU和FPGA两种方式，图像传感器一般采用CCD相机或CMOS相机，具体的镜头数量从1个到4个不等。一般来说，CMOS相较于CCD尺寸和功耗更小，但CCD的整体成像质量要高于CMOS。值得注意的是，伴随相机必不可少的元件还有若干数量的LED照明光源，这也是胶囊机器人主要的功耗来源之一。考虑到全小肠检查需求与医疗器械使用风险，本文认为，保证续航时间才是首要任务，其次是缩小胶囊机器人尺寸，最后才是提高成像质量。因此，可以采用单镜头的CCD相机与至少3个LED光源；或者采用双镜头的CMOS相机与至少6个LED光源。LED光源应该绕镜头呈圆周分布，并由控制器以较低频率闪烁的方式工作，以适应小肠蠕动缓慢的特性，节省能源。如果胶囊尺寸还是太大或功耗还是太高，图像采集系统可以更改为单镜头的CMOS相机。
 
-  In the pre-exploration, we have not only verified that the fireproof microcapsules developed by our team can remain stable in the electrolyte (30 days), but have also conducted experiments on small batteries (aluminum-plastic film batteries, 3.2V-40Ah) and achieved good fire-extinguishing results.
+  4.图像信息无线传输：图像信息的传输对临床即时诊断非常重要。一般来说，图像的高帧率传输不仅代表着流畅的视频成像，同时意味着更高的功耗，这使得图像传输系统难以跟图像采集系统协调设计，即难以在成像视频的清晰度和流畅度之间妥协。况且跨人体的信号传输，会产生严重的衰减与噪声。几种无线信号传输技术中，Wi-Fi的传输性能最好，但功耗也最高，考虑到小肠的检查无需过高的帧率，因此，可采用Bluetooth或RF进行传输，若帧率要求更低，或功耗过大，也可采用ZigBee进行传输。
+
+  5.运动控制与机器定位：运动系统区别开了传统的胶囊内窥镜与胶囊机器人。运动系统的构建使得胶囊内窥镜克服了运动不可控的缺点，实现了姿态调整和机械位移等功能，能够选择性地采集图像信息，专门观察疑似病变部位，从而进一步提高大规模筛查的可能性与临床诊断的可靠性。一般来说，胶囊内窥镜实现主动运动的方式主要分为在机载驱动装置或外源力场装置两种。机载驱动装置的结构有腿足式、组合履带式或螺旋桨式等，其动力源一般来自形状记忆合金或直流电机。然而，对于全小肠检查的长续航胶囊机器人，由外部提供动力的磁力驱动胶囊机器人或许更为合适。事实上，磁控胶囊机器人的动力源仅是一块机载的永磁铁，它本身结构较为简单，但随之而来的是必须要搭配体外的大型磁场发生与控制装置，这也是主要的成本来源和难点。
+  此外，为了后期进一步对疑似病变部位进行诊断和针对性治疗，必须要考虑如何定位胶囊内镜机器人。对此，既可以直接参考商业上最常用的磁定位方法，也可考虑更为新颖的方法，例如，射频三角测量技术：一种根据信号强度变化来计算胶囊的运动距离[7, 17]。
+
+  6.未来将要发展的系统：对于消化道系统而言，单纯依靠可视化不一定就能高效地实现大规模筛查和疾病诊断的目的。在未来，胶囊内窥镜机器人可以进一步集成pH传感器、温度传感器、湿度传感器、血液传感器以及压力传感器等系统，实现消化道的多模态传感和多信息融合，提高产品效益和临床意义。
 
