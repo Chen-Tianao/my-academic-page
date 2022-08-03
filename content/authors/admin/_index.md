@@ -22,7 +22,7 @@ bio: Master's Student in Instrument Science and Technology, focusing on the rese
 interests:
   - Droplet Microfluidics
   - Microrobots & Microactuators
-  - Theranostic instruments
+  - Diagnostic & Therapeutic Integrated Instrumentation
 
 # Education to show in About widget
 education:
@@ -71,8 +71,7 @@ email: 'cta697140@mail.ustc.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chen Tianao (陈天傲) is a Master's Student in the Department of Precision Machinery and Precision Instrumentation, School of Engineering Science, **University of Science and Technology of China** (USTC). He works in the *group for Microfluidics & Material Science*, which's affiliated with the ***lab for Multimodal Biomedical Imaging and Therapy*** (MBIT). His research interests include microscopic robotics, droplet microfluidics and theranostic instruments. He's focusing on applying the soft manufacturing techniques to process advanced materials for developing versatile microstructures as functional units of the microrobots.
+Chen Tianao (陈天傲) received his B.Eng. degree at the School of Ocean Science and Technology, Dalian University of Technology (DLUT). During his undergraduate studies, he majored in Ocean Technology (for intelligent equipment development) and later recommended to pursue a master's degree in the Department of Precision Machinery and Precision Instrumentation at the University of Science and Technology of China (USTC). Currently, he belongs to the Microfluidics and Material Science Group of the Lab for Multimodal Biomedical Imaging and Therapy, working on micro-robotics, droplet microfluidics and diagnostic & therapeutic integrated instrumentation. He focuses on applying soft manufacturing techniques to process advanced materials for the development of multifunctional microstructures as functional units for microrobots.
 
 In addition to his major research, Chen is also following the project of functional microcapsule & microfiber materials, including the controlled drug release embolic microcapsules (under development) and fire-extinguishing microcapsules (under industrialization).
 
