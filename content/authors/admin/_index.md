@@ -71,8 +71,10 @@ email: 'cta697140@mail.ustc.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-*Chen Tianao* (陈天傲) received his B.Eng. degree at the School of Ocean Science and Technology, **Dalian University of Technology** (DLUT). During his undergraduate studies, he majored in Ocean Technology (for intelligent equipment development) and later recommended to pursue a master's degree in the Department of Precision Machinery and Precision Instrumentation at the **University of Science and Technology of China** (USTC). Currently, he belongs to the Microfluidics and Material Science Group of the **Lab for Multimodal Biomedical Imaging and Therapy**, working on micro-robotics, droplet microfluidics and diagnostic & therapeutic integrated instrumentation. He focuses on applying soft manufacturing techniques to process advanced materials for the development of multifunctional microstructures as functional units for microrobots.
+*Chen Tianao* (陈天傲) received his B.Eng. degree at the School of Ocean Science and Technology, **Dalian University of Technology (DLUT)**. During his undergraduate studies, he majored in Ocean Technology (for intelligent equipment development). He was later recommended to pursue a master’s degree in the Department of Precision Machinery and Precision Instrumentation at the **University of Science and Technology of China (USTC)**.
 
-In addition to his major research, Chen is also following the project of functional microcapsule & microfiber materials, including the controlled drug release embolic microcapsules (under development) and fire-extinguishing microcapsules (under industrialization).
+Currently, he belongs to the Microfluidics and Material Science Group of the **Lab for Multimodal Biomedical Imaging and Therapy**, working on micro-robotics, droplet microfluidics, and diagnostic & therapeutic integrated instrumentation. He focuses on applying soft manufacturing techniques to process advanced materials for developing multifunctional microstructures as functional units for microrobots.
+
+In addition to his primary research, Chen is also following the project of functional microcapsule & microfiber materials, including the controlled drug release embolic microcapsules (under development) and fire-extinguishing microcapsules (under industrialization).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
