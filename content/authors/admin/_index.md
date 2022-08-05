@@ -75,6 +75,6 @@ highlight_name: true
 
 Currently, Chen belongs to the Microfluidics and Material Science Group of the **Lab for Multimodal Biomedical Imaging and Therapy**, working on micro-robotics, droplet microfluidics, and diagnostic & therapeutic integrated instrumentation. He aims to develop multifunctional microstructures as units for microrobots via microfluidic soft manufacturing technology.
 
-In addition to his primary research, Chen also follows the functional microcapsules and microfibers, including the controlled drug release embolic microcapsules (under development) and fire-extinguishing microcapsules (under industrialization).
+In addition to his primary research, Chen also follows the functional microcapsules and microfibers, including the controlled drug release embolic microcapsules (under development) and fireproof microcapsules (under industrialization).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
