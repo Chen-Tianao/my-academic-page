@@ -32,9 +32,9 @@ url_video: ''
 slides:
 ---
 # Notice
-Welcome to visit this practicum project!🤝
+Welcome to visit this course practicum project!🤝
 
-In view of my limited knowledge, there are still many deficiencies in this report. If there are any unreasonable points, please make your valuable comments.
+In view of my limited knowledge, there are still many deficiencies in the report. If there are any unreasonable points, please make your valuable comments.
  
 # Report
 ## 需求分析
@@ -42,7 +42,7 @@ In view of my limited knowledge, there are still many deficiencies in this repor
 
   尽管消化道系统疾病种类繁多、疗法复杂，但是定期的筛查与发生异常时的诊断肯定是治疗消化道系统疾病必不可少的一环。内窥镜不仅是临床上进行疾病诊断的常见手段，也是检查消化道系统疾病的金标准[5-10]。具体而言，胃肠道约有9米，其中，小肠约占三分之二，易患有出血、溃疡、吸收不良、炎症、狭窄、息肉和癌症等疾病。然而，传统的光导纤维内窥镜存在结构上粗硬、成像质量较差等问题，进一步来说，基于有线信号传输与机械传动的侵入性有线内窥镜难以深入消化道进行观察，特别是实现全小肠的检查[5-8]。于是，本文基于内窥镜在消化道系统疾病的诊疗过程的重要地位，总结了三类新型内窥镜以进行创新医疗器械的需求筛选，并最终确定[磁控胶囊式内窥镜系统](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.12299)为当前国内该领域的医疗器械创新方案首选。
 
-  总而言之，本文旨在：针对1）有线内窥镜检查范围以外的消化道部位（例如小肠）疑似病变的患者；2）麻醉、镇静或止痛药等风险高的患者，来设计一种无创检查消化道的内窥镜系统，其应当能够有效检查全部小肠，并克服有线内窥镜必须实施麻醉、操作技术要求高、患者不适感重导致的依从度低，以及容易造成消化道组织创伤等问题。
+  总而言之，本文旨在：针对 1)有线内窥镜检查范围以外的消化道部位（例如小肠）疑似病变的患者；2)麻醉、镇静或止痛药等风险高的患者，来设计一种无创检查消化道的内窥镜系统，其应当能够有效检查全部小肠，并克服有线内窥镜必须实施麻醉、操作技术要求高、患者不适感重导致的依从度低，以及容易造成消化道组织创伤等问题。
 
 ## 产品定义
 ### 工作原理与设计指标
