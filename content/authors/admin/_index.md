@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MPhil in Instrument Science and Technology
+    - course: M.Phil in Instrument Science and Technology
       institution: University of Science and Technology of China
       year: 2024
-    - course: BEng in Ocean Technology
+    - course: B.Eng in Ocean Technology
       institution: Dalian University of Technology
       year: 2021
 
@@ -71,7 +71,7 @@ email: 'cta697140@mail.ustc.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-*Chen Tianao* (陈天傲) received his B.Eng. degree at the School of Ocean Science and Technology, **Dalian University of Technology (DLUT)**. During his undergraduate studies, he majored in Ocean Technology (for intelligent equipment development). Later, he was recommended for admission to pursue a master’s degree in the Department of Precision Machinery and Precision Instrumentation at the **University of Science and Technology of China (USTC)**.
+*Chen Tianao* (陈天傲) received his B.Eng degree at the School of Ocean Science and Technology, **Dalian University of Technology (DLUT)**. During his undergraduate studies, he majored in Ocean Technology (for intelligent equipment development). Later, he was recommended for admission to pursue a master’s degree in the Department of Precision Machinery and Precision Instrumentation at the **University of Science and Technology of China (USTC)**.
 
 Currently, Chen belongs to the Microfluidics and Material Science Group of the **Lab for Multimodal Biomedical Imaging and Therapy**, working on micro-robotics, droplet microfluidics, and diagnostic & therapeutic integrated instrumentation. He aims to develop multifunctional microstructures as units for microrobots via microfluidic soft manufacturing technology.
 
